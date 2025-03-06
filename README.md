@@ -1,4 +1,4 @@
-<h3 align="rigth">Olá 👋! Estudante de Engenharia de Computação na Unicamp,. Tenho experiência em backend, automação de processos e CI/CD. Atualmente, estou aprofundando meus conhecimentos em Node.js e JavaScript. Sempre em busca de aprender!</h3>
+<h3 align="rigth">Olá 👋! Estudante de Engenharia de Computação na Unicamp,. Tenho experiência em backend, automação de processos e CI/CD. Atualmente, estou aprofundando meus conhecimentos em Node.js e JavaScript.</h3>
 
 ###
 
