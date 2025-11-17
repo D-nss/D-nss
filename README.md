@@ -1,4 +1,4 @@
-<h3 align="rigth">Olá 👋! Estudante de Engenharia de Computação na Unicamp,. Tenho experiência full-stack, automação de processos e CI/CD.</h3>
+<h3 align="rigth">Olá 👋! Estudante de Engenharia de Computação na Unicamp. Tenho experiência full-stack, em automação de processos e CI/CD.</h3>
 
 ###
 
